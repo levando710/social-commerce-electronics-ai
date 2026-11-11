@@ -87,4 +87,3 @@ Chat mặc định ở `http://127.0.0.1:7860`. Khóa API (OpenAI, Gemini, Huggi
 - [Tái lập kết quả](docs/REPRODUCIBILITY.md)
 - [Kiến trúc](docs/ARCHITECTURE.md)
 - [Cấu trúc package RAG](rag/docs/PACKAGES.md) và [định giá](pricing/docs/PACKAGES.md)
-- Phương pháp: [biểu diễn đa phương thức](rag/docs/CONNECTED_MULTIMODAL_METHOD.md), [học kết hợp theo hội thoại](rag/docs/CONVERSATIONAL_JOINT_METHOD.md), [RAG](rag/docs/guides/RAG_PIPELINE.md), [mô hình gợi ý](rag/docs/guides/RECSYS_MODELS.md), [Co-Guiding](rag/docs/guides/CO_GUIDING.md)

@@ -1396,19 +1396,3 @@ Các biểu đồ thực nghiệm có bản SVG, PNG và PDF; dữ liệu đầu
 | text_image | 6 | 4 | 4 | 40 | 1 | 1 | 0.976190 |
 
 Các số supported, unsupported và unknown là kết quả của bộ chấm tự động. Việc kiểm định citation hoặc trích đoạn nguyên văn chỉ xác nhận tham chiếu có tồn tại; nhãn không đồng nghĩa với xác minh độc lập mọi nhận định.
-
-## C.4. Sơ đồ bổ sung ở dạng PlantUML
-
-Bảy sơ đồ sau được viết bằng PlantUML để dựng thành hình và chèn vào vị trí đề xuất; mã nguồn nằm trong `docs/reports/diagrams/`.
-
-**Bảng C.4. Sơ đồ PlantUML và vị trí chèn đề xuất.**
-
-| Tệp | Nội dung | Vị trí đề xuất |
-|---|---|---|
-| [01_kien_truc_tong_the.puml](diagrams/01_kien_truc_tong_the.puml) | Bốn khối kiến trúc và các luồng dữ liệu | Mục 2.1 (thay thế hoặc bổ sung cho Hình 2.1) |
-| [02_luong_hoi_thoai_truy_van.puml](diagrams/02_luong_hoi_thoai_truy_van.puml) | Trình tự xử lý một lượt hội thoại | Mục 2.3 |
-| [03_co_guiding.puml](diagrams/03_co_guiding.puml) | Hai hướng phản hồi RAG và RecSys | Mục 2.5 |
-| [04_do_thi_di_the.puml](diagrams/04_do_thi_di_the.puml) | Loại nút và loại cạnh của đồ thị dị thể | Mục 2.4.1 |
-| [05_quy_trinh_thuc_nghiem.puml](diagrams/05_quy_trinh_thuc_nghiem.puml) | Quy trình thực nghiệm và kiểm soát rò rỉ | Mục 2.6.2 |
-| [06_giao_thuc_danh_gia_api.puml](diagrams/06_giao_thuc_danh_gia_api.puml) | Giao thức chạy thực nghiệm gọi API | Mục 2.6.2 hoặc Phụ lục B |
-| [07_co_so_du_lieu_tuong_tac.puml](diagrams/07_co_so_du_lieu_tuong_tac.puml) | Lược đồ lưu hành vi người dùng | Phụ lục A |

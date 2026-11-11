@@ -24,6 +24,6 @@ Các lệnh demo cần tài sản cục bộ đã tạo. Mặc định không g�
 
 ## Dữ liệu và thực nghiệm
 
-[Tái lập kết quả](../docs/REPRODUCIBILITY.md) liệt kê chuỗi chuẩn bị, feature, train, IR, Co-Guiding và joint. [Quy tắc mô hình](docs/guides/RECSYS_MODELS.md) mô tả baseline và giới hạn.
+[Tái lập kết quả](../docs/REPRODUCIBILITY.md) liệt kê chuỗi chuẩn bị, feature, train, IR, Co-Guiding và joint.
 
 Mỗi thư mục kết quả có manifest và snapshot mã tại thời điểm chạy; thực nghiệm mới ghi vào thư mục mới.
