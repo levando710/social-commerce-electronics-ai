@@ -1,0 +1,37 @@
+{
+  "source_sha256": "f50238affcdf5f50421e6c9c15f61331c6cd5033f39bfdce5e9dbede8848734b",
+  "matplotlib": "3.10.8",
+  "figures": {
+    "feedback_robustness": {
+      "inputs_sha256": {
+        "artifacts\\evaluation\\results_electronics_robustness_analysis_v1\\analysis.json": "08a63ef6e719b45148f9e422c28a8abb1994d9561d0f9cd8209d4dd288f96227",
+        "artifacts\\evaluation\\results_electronics_multimodal_v1\\experiment.json": "1bb9df834e881bd2c6719bd76edebc1516f55c346e55b304e2e369a81ddcdace"
+      },
+      "outputs_sha256": {
+        "png": "0830921c4cc8f81ffdafed59e8272d106fadcc2a2dd73de80c1774d773dd8af6",
+        "svg": "c899f2ab41061dfe0c2040fa575a456fb554c2e7441e1482e032e70171ce708c",
+        "pdf": "9347bad7f121979fd3381ca150ead1f48a1232e7a50012486a3050323e0f3f83"
+      }
+    },
+    "anchored_query_retrieval": {
+      "inputs_sha256": {
+        "artifacts\\evaluation\\results_electronics_anchored_analysis_v1\\analysis.json": "9298f7facf18bea92f7a7b80c4eb0eb3d6b67ef2c98c1a8299bf33b1854bbcf4"
+      },
+      "outputs_sha256": {
+        "png": "407911ec2e46c3a2f0db130d2ef0ef24b8bb5f43b1e9377ac32d085d3da4ea46",
+        "svg": "787ad497673e74428e04f8119e6dd7e948f40b3fa0c6661c25283212e2243e6b",
+        "pdf": "cad06c7b37445942fedbcd9da4dbd06e4a2298b3433fd7974581c657c96a2d09"
+      }
+    },
+    "generation_coverage": {
+      "inputs_sha256": {
+        "artifacts\\evaluation\\results_rag_generation_analysis_v1\\analysis.json": "a0b881b213d32d0dbe7794288d9bb97b4681f92890b6ce09f38664bb4ec9ec6a"
+      },
+      "outputs_sha256": {
+        "png": "c5589669cb48297b1db3f2164542456ab68bc58290e7e3a8d4f11b242f3aa3f9",
+        "svg": "4dd74bdda05adb84b0bbd473c337393004bc76444bc00f8851cf39b6e283213f",
+        "pdf": "a3f27281b22060dc12a1f09ec7342525cf445cf5b59e34031fa2d87ac8a3ca6c"
+      }
+    }
+  }
+}

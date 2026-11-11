@@ -1,0 +1,5 @@
+# Install in an isolated target: --target rag/.cache/report_tools
+# Do not install these into the running training environment.
+latex2mathml==3.81.1
+matplotlib==3.10.8
+pypdfium2==4.30.0

@@ -1,0 +1,2 @@
+-r ../rag/requirements/requirements-dense.txt
+-r ../rag/requirements/requirements-data.txt

@@ -1,0 +1,5 @@
+-r requirements.txt
+matplotlib>=3.10,<4
+seaborn>=0.13,<0.14
+xgboost>=3,<4
+optuna>=4,<5

@@ -1,0 +1,18 @@
+{
+  "border": "khung_vien.jpeg",
+  "logo": "logo_ptit.png",
+  "institution": "HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG",
+  "faculty": "KHOA CÔNG NGHỆ THÔNG TIN 1",
+  "document": "BÁO CÁO NGHIÊN CỨU",
+  "course": "HỌC PHẦN: ĐỒ ÁN TỐT NGHIỆP",
+  "topic": "ĐỀ TÀI: Nghiên cứu xây dựng nền tảng mạng xã hội thương mại cho đồ điện tử dựa trên công nghệ Multimodal RAG và hệ gợi ý",
+  "scope": "Nội dung: Chương 1 và Chương 2",
+  "members_caption": "Nhóm thực hiện:",
+  "members": [
+    ["STT", "Họ và tên", "Mã sinh viên"],
+    ["1", "Lê Văn Đô", "B22DCCN214"],
+    ["2", "Trương Nam Khánh", "B22DCCN454"],
+    ["3", "Lê Trà My", "B22DCCN550"]
+  ],
+  "place_year": "Hà Nội, 2026"
+}

@@ -1,0 +1,20 @@
+{
+  "external_datasets\\benchmarks\\connected_electronics_v2\\summary.json": "952a549025276a4c7409ab8fca36bbede812b1fc43b4cefaadd76ef92319b835",
+  "evaluation\\results_electronics_multimodal_v1\\experiment.json": "1bb9df834e881bd2c6719bd76edebc1516f55c346e55b304e2e369a81ddcdace",
+  "evaluation\\results_electronics_ir_v1\\experiment.json": "bc10aa644be126c785da3f8bec3928308a33589ad7cf0a5cc083274d8e76f50e",
+  "evaluation\\results_vogue_ir_v1\\experiment.json": "d026df7efc5ef4dbda83fe988916e5c5cdb432c7776050a13e8feec7ad76585a",
+  "evaluation\\results_electronics_coupling_v1\\experiment.json": "d86aeecd453cea166d47f2a6eb99b7683c4c33526a2e807a799d767b1377c48a",
+  "evaluation\\results_electronics_joint_v1\\experiment.json": "051dee6ec992a93b72092e090d070dbfd6a5ea2eac9770298f43cbbca198d58d",
+  "evaluation\\results_electronics_sparse50_v1\\experiment.json": "e6356eac87c465034621d9e4effe748c16daeba149839f3aafca1e7ff2589740",
+  "evaluation\\results_rag_generation_analysis_v1\\analysis.json": "a0b881b213d32d0dbe7794288d9bb97b4681f92890b6ce09f38664bb4ec9ec6a",
+  "evaluation\\results_electronics_anchored_analysis_v1\\analysis.json": "9298f7facf18bea92f7a7b80c4eb0eb3d6b67ef2c98c1a8299bf33b1854bbcf4",
+  "evaluation\\results_electronics_robustness_analysis_v1\\analysis.json": "08a63ef6e719b45148f9e422c28a8abb1994d9561d0f9cd8209d4dd288f96227",
+  "evaluation\\results_electronics_history_guidance_v1\\analysis.json": "c316d2f8996f0febf1520e424d6824faf89aa0da3c27794c017e96d7ca12ba8d",
+  "evaluation\\results_electronics_latency_v1\\search.json": "f30489f61f001db360d84895c3defde61af88ce26b236504471c3416225fb6ea",
+  "evaluation\\results_electronics_latency_v1\\text.json": "72c8f1eac06f24c3c46021ad9e3fa85ef2289b7605a7fca810fe9886ad73564c",
+  "evaluation\\results_electronics_latency_v1\\clip.json": "edeb8cbee9a84f9dca000a5e35c8f165e677558d9c1d9cea5798f166fefd44d5",
+  "evaluation\\results_electronics_latency_v1\\anchored.json": "021f82ddeb84a51ebeed548cfadfab4da008f25bd68a7022fec9d9193ba6b06a",
+  "evaluation\\results_electronics_analysis_v1\\analysis.json": "084b2d0e28bec9dc6a177ce6e272fd1d0de4a985ef0c660ffc920ed597964825",
+  "evaluation\\results_electronics_sparsity_analysis_v1\\analysis.json": "a658c8fc748c2662fb5f09434294bca2ae9d06d6791b8dddc75dfca410ccd180",
+  "evaluation\\results_electronics_joint_analysis_v1\\analysis.json": "c0235820d7d0bc08124c695034b1b6da893fc5b86cbfcb570112b549d635a46c"
+}

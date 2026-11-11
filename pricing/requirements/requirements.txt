@@ -1,0 +1,6 @@
+numpy>=2.2,<3
+pandas>=2.3,<3
+scikit-learn>=1.7,<2
+catboost>=1.2.10,<2
+streamlit>=1.62,<2
+requests>=2.32,<3

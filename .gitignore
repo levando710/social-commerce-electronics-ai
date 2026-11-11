@@ -1,0 +1,57 @@
+# Python / local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+/.venvs/
+
+# Secrets and local config
+.env
+*.env
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+*.key
+*.pem
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+.vscode/
+.idea/
+
+# Large raw/generated datasets
+rag/data_phone_clean/
+rag/data_phone_clean_v2/
+rag/reports_phone_clean/
+rag/reports_phone_clean_v2/
+rag/**/*.sqlite3
+rag/**/images/
+
+# Runtime logs / caches
+pricing/logs/
+pricing/__pycache__/
+rag/**/__pycache__/
+
+# Repository tooling and regenerated submission bundles
+/.cache/
+/dist/
+/build/
+*.egg-info/
+
+# Local datasets, trained weights and study databases
+pricing/data/
+pricing/artifacts/
+rag/data_phone_clean_v2_filtered/
+catboost_info/
+**/catboost_info/
+rag/docs/research_figures/chapter_preview/
+rag/exports/
+
+# Keep source, documentation, manifests and lightweight experiment reports.

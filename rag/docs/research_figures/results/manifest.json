@@ -1,0 +1,72 @@
+[
+  {
+    "figure": "fig_retrieval_electronics",
+    "source_table": "bảng cùng tên",
+    "title": "Truy hồi trên Electronics",
+    "files": [
+      "fig_retrieval_electronics.png",
+      "fig_retrieval_electronics.svg",
+      "fig_retrieval_electronics.pdf"
+    ]
+  },
+  {
+    "figure": "fig_retrieval_vogue",
+    "source_table": "bảng cùng tên",
+    "title": "Truy hồi first-turn trên VOGUE",
+    "files": [
+      "fig_retrieval_vogue.png",
+      "fig_retrieval_vogue.svg",
+      "fig_retrieval_vogue.pdf"
+    ]
+  },
+  {
+    "figure": "fig_recsys_datasets",
+    "source_table": "bảng cùng tên",
+    "title": "Gợi ý trên ba bộ dữ liệu",
+    "files": [
+      "fig_recsys_datasets.png",
+      "fig_recsys_datasets.svg",
+      "fig_recsys_datasets.pdf"
+    ]
+  },
+  {
+    "figure": "fig_coguiding_modes",
+    "source_table": "bảng cùng tên",
+    "title": "Chế độ Co-Guiding",
+    "files": [
+      "fig_coguiding_modes.png",
+      "fig_coguiding_modes.svg",
+      "fig_coguiding_modes.pdf"
+    ]
+  },
+  {
+    "figure": "fig_spec_extraction",
+    "source_table": "bảng cùng tên",
+    "title": "Bóc tách thông số theo điều kiện bằng chứng",
+    "files": [
+      "fig_spec_extraction.png",
+      "fig_spec_extraction.svg",
+      "fig_spec_extraction.pdf"
+    ]
+  },
+  {
+    "figure": "fig_generation_branches",
+    "source_table": "bảng cùng tên",
+    "title": "Đánh giá sinh theo nhánh đầu vào",
+    "files": [
+      "fig_generation_branches.png",
+      "fig_generation_branches.svg",
+      "fig_generation_branches.pdf"
+    ]
+  },
+  {
+    "figure": "fig_latency",
+    "source_table": "bảng cùng tên",
+    "title": "Độ trễ từng pha",
+    "files": [
+      "fig_latency.png",
+      "fig_latency.svg",
+      "fig_latency.pdf"
+    ]
+  }
+]

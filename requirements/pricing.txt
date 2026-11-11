@@ -1,0 +1,1 @@
+-r ../pricing/requirements/requirements.txt

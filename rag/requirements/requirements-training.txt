@@ -1,0 +1,3 @@
+# CPU training environment used for the portable experiment; install CPU torch first.
+numpy==2.2.6
+torch==2.14.1

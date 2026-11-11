@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source_sha256": {
+    "reviews": "b6fb70799cce1ab0cec9e5ce2a41078307248c2bc37c3e52eea80bbc3ec18fe6",
+    "corpus": "39febc940f1b5e7c18062f6964177d9d561f7e64d622db3db4412fe3105cc635"
+  },
+  "artifacts_sha256": {
+    "id_maps.json": "ca2701593fa0e4a88b4904b9a89af96085361a1bb8188a63252e100c97d95172",
+    "interactions.jsonl": "b26f988bf2e2f1c3155e398e19abae4d9a843070698987b64f8ef11c690a827b",
+    "popularity_metrics.json": "a8c67dc837d0c14e0594a195f4df8915fbbed78720f1f91edb79cb7582f34085",
+    "recsys_data_report.md": "b0e08d534c6a2c5bebc1ac3bb9911376120f5b1f71a87653f2f41e78a3022de1",
+    "summary.json": "b680ccc7e0c714e8a9382c294d873a734b5532aa0bce32cffad3095091c0c065",
+    "test.jsonl": "7adb6e394a45d1579b125696fc9ed2dcbacf7d3eeebf0b8300d118d737888b1f",
+    "train.jsonl": "c3184bef78c6e5f2dbc7d2853760d5ba1e4bad2e7cc682e41ebbb0007030d74c",
+    "train_graph_edges.jsonl": "7a7f9dfcbfc573eff4ae92bf285ab2c13a28c7074206930ef48a718ffa38ec5b",
+    "validation.jsonl": "b703227760253faaecbcf429957f98fb8008169a78048c61e95a8de7939dc1fe"
+  },
+  "config": {
+    "positive_rating": 4.0,
+    "protocol": "per-user chronological leave-last-out; validation for users with >=3 separable events"
+  }
+}

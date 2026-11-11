@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "package": "phone_pricing",
+  "modules": {
+    "project_paths.py": "phone_pricing.common.project_paths",
+    "phone_features.py": "phone_pricing.features.phone_features",
+    "confidence_utils.py": "phone_pricing.models.confidence_utils",
+    "price_baselines.py": "phone_pricing.models.price_baselines",
+    "llm_feature_extractor.py": "phone_pricing.llm.llm_feature_extractor",
+    "getdata.py": "phone_pricing.data.getdata",
+    "data_preprocessing.py": "phone_pricing.data.data_preprocessing",
+    "phonetrain.py": "phone_pricing.training.phonetrain",
+    "tune_phone_model.py": "phone_pricing.training.tune_phone_model",
+    "compare_model.py": "phone_pricing.training.compare_model",
+    "evaluate_holdout_protocol.py": "phone_pricing.training.evaluate_holdout_protocol",
+    "app_demo.py": "phone_pricing.apps.app_demo"
+  },
+  "commands": [
+    "getdata",
+    "data_preprocessing",
+    "phonetrain",
+    "tune_phone_model",
+    "compare_model",
+    "evaluate_holdout_protocol"
+  ]
+}

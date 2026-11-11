@@ -1,0 +1,42 @@
+{
+  "created_at_utc": "2026-10-26T01:52:56.619796+00:00",
+  "review_rows": 2255,
+  "catalog_items": 1136,
+  "audit": {
+    "duplicate_user_item_rows": 9,
+    "unique_pairs_before_rating_filter": 2246,
+    "nonpositive_pairs": 683
+  },
+  "positive_rating_threshold": 4.0,
+  "positive_interactions": 1563,
+  "users": 1500,
+  "items_with_positive_interactions": 404,
+  "users_with_multiple_items": 58,
+  "user_degree_histogram": {
+    "1": 1442,
+    "2": 53,
+    "3": 5
+  },
+  "interaction_density": 0.0009172535211267606,
+  "two_core": {
+    "interactions": 8,
+    "users": 4,
+    "items": 4
+  },
+  "split": {
+    "train": 1500,
+    "validation": 5,
+    "test": 58,
+    "timestamp_tied_users_kept_train_only": 0
+  },
+  "protocol": "per-user chronological leave-last-out; validation for users with >=3 separable events",
+  "global_time_split": false,
+  "limitations": [
+    "Reviews are feedback proxies, not observed clicks, follows or confirmed transactions.",
+    "The collected product/review subset is not representative of Amazon or a social network.",
+    "Per-user chronology does not enforce a shared global time cutoff across different users.",
+    "Low-degree users remain train-only. Do not fabricate interactions to increase evaluation size.",
+    "Cold-item results are included and also reported separately; no sampled negatives.",
+    "Historical product text/reviews are not a temporally frozen feature store for future GNN evaluation."
+  ]
+}

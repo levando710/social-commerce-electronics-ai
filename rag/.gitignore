@@ -1,0 +1,8 @@
+__pycache__/
+.env
+.streamlit/secrets.toml
+/artifacts/
+/data/*
+!/data/fixtures/
+/data/fixtures/*
+!/data/fixtures/recommendation/

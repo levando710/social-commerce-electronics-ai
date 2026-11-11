@@ -1,0 +1,31 @@
+# Normalize new repository tooling; preserve byte-level research provenance.
+* text=auto
+
+README.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.editorconfig text eol=lf
+.env.example text eol=lf
+pyproject.toml text eol=lf
+.github/** text eol=lf
+docs/** text eol=lf
+tools/** text eol=lf
+tests/** text eol=lf
+requirements/** text eol=lf
+config/** text eol=lf
+
+# These files are covered by experiment/checkpoint hashes, including source snapshots.
+rag/** -text
+pricing/data/** -text
+pricing/artifacts/** -text
+pricing/docs/** -text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.docx binary
+*.cbm binary
+*.pt binary
+*.npz binary
+*.zip binary
